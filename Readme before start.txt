@@ -1,0 +1,1 @@
+Execute ' npm install' on the terminal of the beginning 
